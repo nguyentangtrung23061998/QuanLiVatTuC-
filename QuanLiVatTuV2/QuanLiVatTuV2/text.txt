@@ -1,0 +1,5 @@
+VatTu01@Vat Tu01@phep tinh 01@1000@
+VatTu02@Vat Tu02@phep tinh 02@2000@
+VatTu03@Vat Tu03@phep tinh 03@3000@
+VatTu04@Vat Tu04@phep tinh 04@4000@
+VatTu05@Vat Tu05@phep tinh 05@5000@
